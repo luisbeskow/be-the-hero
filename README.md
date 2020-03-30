@@ -6,3 +6,5 @@ App com objetivo de conectar ONGs e pessoas com intenção de contribuir com ela
 - [Knex](http://knexjs.org/)
 ## Banco de Dados
 - [SQLite](https://www.sqlite.org/)
+
+Fé em Deus, copio
